@@ -5,7 +5,7 @@
       <BASEDEDATOS>
         <ALUMNOS>
         
-          <Nombre>Ana</Nombre>
+          <Nombre>Ana
           <Apellidos>Fernández Gutiérrez</Apellidos>
             <DNI>16965696L</DNI>
             <Telefono>789654321</Telefono>
@@ -14,8 +14,9 @@
             <CP>39302</CP>
             <FALTAS>SIN INFORMACION</FALTAS>
             <NOTAS>SIN INFORMACION</NOTAS>
-          
-          <Nombre>Pepito</Nombre>
+          </Nombre>
+
+          <Nombre>Pepito
           <Apellidos>Grillo</Apellidos>
             <DNI>98765432H</DNI>
             <Telefono>656566555</Telefono>
@@ -24,9 +25,9 @@
             <CP>39401</CP>
             <FALTAS> 0 </FALTAS>
             <NOTAS>APTO</NOTAS>
-        
+          </Nombre>
           
-          <Nombre>Juan</Nombre>
+          <Nombre>Juan
           <Apellidos>García Hernández</Apellidos>
             <DNI>34543454F </DNI>
             <Telefono>600123123 </Telefono>
@@ -35,9 +36,9 @@
             <CP>04005</CP>
             <FALTAS> 0 </FALTAS>
             <NOTAS>NO APTO</NOTAS>
+          </Nombre>
           
-          
-          <Nombre>Alicia</Nombre>
+          <Nombre>Alicia
           <Apellidos>Gutiérrez Llamas</Apellidos>
             <DNI>111111111C </DNI>
             <Telefono>659654321</Telefono>
@@ -46,13 +47,13 @@
             <CP>18005</CP>
             <FALTAS> 2 </FALTAS>
             <NOTAS>SIN INFORMACION</NOTAS>
-            
+          </Nombre>
         </ALUMNOS>
       </BASEDEDATOS>
       <ENTORNOSDEDESARROLLO>
         <ALUMNOS>
         
-          <Nombre>Ana</Nombre>
+          <Nombre>Ana
           <Apellidos>Fernández Gutiérrez</Apellidos>
             <DNI>16965696L</DNI>
             <Telefono>789654321</Telefono>
@@ -61,8 +62,9 @@
             <CP>39302</CP>
             <FALTAS>SIN INFORMACION</FALTAS>
             <NOTAS>SIN INFORMACION</NOTAS>
-          
-          <Nombre>Pepito</Nombre>
+          </Nombre>
+
+          <Nombre>Pepito
           <Apellidos>Grillo</Apellidos>
             <DNI>98765432H</DNI>
             <Telefono>656566555</Telefono>
@@ -71,9 +73,9 @@
             <CP>39401</CP>
             <FALTAS> 0 </FALTAS>
             <NOTAS>APTO</NOTAS>
-        
+          </Nombre>
           
-          <Nombre>Juan</Nombre>
+          <Nombre>Juan
           <Apellidos>García Hernández</Apellidos>
             <DNI>34543454F </DNI>
             <Telefono>600123123 </Telefono>
@@ -82,9 +84,9 @@
             <CP>04005</CP>
             <FALTAS> 0 </FALTAS>
             <NOTAS>NO APTO</NOTAS>
+          </Nombre>
           
-          
-          <Nombre>Alicia</Nombre>
+          <Nombre>Alicia
           <Apellidos>Gutiérrez Llamas</Apellidos>
             <DNI>111111111C </DNI>
             <Telefono>659654321</Telefono>
@@ -93,13 +95,13 @@
             <CP>18005</CP>
             <FALTAS> 2 </FALTAS>
             <NOTAS>SIN INFORMACION</NOTAS>
-            
+          </Nombre>
         </ALUMNOS>
       </ENTORNOSDEDESARROLLO>
       <FOL>
         <ALUMNOS>
         
-          <Nombre>Ana</Nombre>
+          <Nombre>Ana
           <Apellidos>Fernández Gutiérrez</Apellidos>
             <DNI>16965696L</DNI>
             <Telefono>789654321</Telefono>
@@ -108,8 +110,8 @@
             <CP>39302</CP>
             <FALTAS>SIN INFORMACION</FALTAS>
             <NOTAS>SIN INFORMACION</NOTAS>
-          
-          <Nombre>Pepito</Nombre>
+          </Nombre>
+          <Nombre>Pepito
           <Apellidos>Grillo</Apellidos>
             <DNI>98765432H</DNI>
             <Telefono>656566555</Telefono>
@@ -118,9 +120,9 @@
             <CP>39401</CP>
             <FALTAS> 0 </FALTAS>
             <NOTAS>APTO</NOTAS>
-        
+          </Nombre>
           
-          <Nombre>Juan</Nombre>
+          <Nombre>Juan
           <Apellidos>García Hernández</Apellidos>
             <DNI>34543454F </DNI>
             <Telefono>600123123 </Telefono>
@@ -129,9 +131,9 @@
             <CP>04005</CP>
             <FALTAS> 0 </FALTAS>
             <NOTAS>NO APTO</NOTAS>
+          </Nombre>
           
-          
-          <Nombre>Alicia</Nombre>
+          <Nombre>Alicia
           <Apellidos>Gutiérrez Llamas</Apellidos>
             <DNI>111111111C </DNI>
             <Telefono>659654321</Telefono>
@@ -140,13 +142,14 @@
             <CP>18005</CP>
             <FALTAS> 2 </FALTAS>
             <NOTAS>SIN INFORMACION</NOTAS>
-            
+          </Nombre>
+
         </ALUMNOS>
       </FOL> 
       <LENGUAJESDEMARCAS>
         <ALUMNOS>
         
-          <Nombre>Ana</Nombre>
+          <Nombre>Ana
           <Apellidos>Fernández Gutiérrez</Apellidos>
             <DNI>16965696L</DNI>
             <Telefono>789654321</Telefono>
@@ -155,8 +158,8 @@
             <CP>39302</CP>
             <FALTAS>SIN INFORMACION</FALTAS>
             <NOTAS>SIN INFORMACION</NOTAS>
-          
-          <Nombre>Pepito</Nombre>
+          </Nombre>
+          <Nombre>Pepito
           <Apellidos>Grillo</Apellidos>
             <DNI>98765432H</DNI>
             <Telefono>656566555</Telefono>
@@ -165,9 +168,9 @@
             <CP>39401</CP>
             <FALTAS> 0 </FALTAS>
             <NOTAS>APTO</NOTAS>
-        
+          </Nombre>
           
-          <Nombre>Juan</Nombre>
+          <Nombre>Juan
           <Apellidos>García Hernández</Apellidos>
             <DNI>34543454F </DNI>
             <Telefono>600123123 </Telefono>
@@ -176,9 +179,9 @@
             <CP>04005</CP>
             <FALTAS> 0 </FALTAS>
             <NOTAS>NO APTO</NOTAS>
+          </Nombre>
           
-          
-          <Nombre>Alicia</Nombre>
+          <Nombre>Alicia
           <Apellidos>Gutiérrez Llamas</Apellidos>
             <DNI>111111111C </DNI>
             <Telefono>659654321</Telefono>
@@ -187,13 +190,14 @@
             <CP>18005</CP>
             <FALTAS> 2 </FALTAS>
             <NOTAS>SIN INFORMACION</NOTAS>
-            
+          </Nombre>
+
         </ALUMNOS>
       </LENGUAJESDEMARCAS> 
       <PROGRAMACION>
         <ALUMNOS>
         
-          <Nombre>Ana</Nombre>
+          <Nombre>Ana
           <Apellidos>Fernández Gutiérrez</Apellidos>
             <DNI>16965696L</DNI>
             <Telefono>789654321</Telefono>
@@ -202,8 +206,9 @@
             <CP>39302</CP>
             <FALTAS>SIN INFORMACION</FALTAS>
             <NOTAS>SIN INFORMACION</NOTAS>
-          
-          <Nombre>Pepito</Nombre>
+          </Nombre>
+
+          <Nombre>Pepito
           <Apellidos>Grillo</Apellidos>
             <DNI>98765432H</DNI>
             <Telefono>656566555</Telefono>
@@ -212,9 +217,9 @@
             <CP>39401</CP>
             <FALTAS> 0 </FALTAS>
             <NOTAS>APTO</NOTAS>
-        
+         </Nombre>
           
-          <Nombre>Juan</Nombre>
+          <Nombre>Juan
           <Apellidos>García Hernández</Apellidos>
             <DNI>34543454F </DNI>
             <Telefono>600123123 </Telefono>
@@ -223,9 +228,9 @@
             <CP>04005</CP>
             <FALTAS> 0 </FALTAS>
             <NOTAS>NO APTO</NOTAS>
+          </Nombre>
           
-          
-          <Nombre>Alicia</Nombre>
+          <Nombre>Alicia
           <Apellidos>Gutiérrez Llamas</Apellidos>
             <DNI>111111111C </DNI>
             <Telefono>659654321</Telefono>
@@ -234,13 +239,14 @@
             <CP>18005</CP>
             <FALTAS> 2 </FALTAS>
             <NOTAS>SIN INFORMACION</NOTAS>
-            
+            </Nombre>
+
         </ALUMNOS>
       </PROGRAMACION> 
       <SISTEMASINFORMATICOS>
         <ALUMNOS>
         
-          <Nombre>Ana</Nombre>
+          <Nombre>Ana
           <Apellidos>Fernández Gutiérrez</Apellidos>
             <DNI>16965696L</DNI>
             <Telefono>789654321</Telefono>
@@ -249,8 +255,9 @@
             <CP>39302</CP>
             <FALTAS>SIN INFORMACION</FALTAS>
             <NOTAS>SIN INFORMACION</NOTAS>
-          
-          <Nombre>Pepito</Nombre>
+          </Nombre>
+
+          <Nombre>Pepito
           <Apellidos>Grillo</Apellidos>
             <DNI>98765432H</DNI>
             <Telefono>656566555</Telefono>
@@ -259,9 +266,9 @@
             <CP>39401</CP>
             <FALTAS> 0 </FALTAS>
             <NOTAS>APTO</NOTAS>
-        
+          </Nombre>
           
-          <Nombre>Juan</Nombre>
+          <Nombre>Juan
           <Apellidos>García Hernández</Apellidos>
             <DNI>34543454F </DNI>
             <Telefono>600123123 </Telefono>
@@ -270,9 +277,9 @@
             <CP>04005</CP>
             <FALTAS> 0 </FALTAS>
             <NOTAS>NO APTO</NOTAS>
+            </Nombre>
           
-          
-          <Nombre>Alicia</Nombre>
+          <Nombre>Alicia
           <Apellidos>Gutiérrez Llamas</Apellidos>
             <DNI>111111111C </DNI>
             <Telefono>659654321</Telefono>
@@ -281,7 +288,8 @@
             <CP>18005</CP>
             <FALTAS> 2 </FALTAS>
             <NOTAS>SIN INFORMACION</NOTAS>
-            
+          </Nombre>
+
         </ALUMNOS>
       </SISTEMASINFORMATICOS>
   
