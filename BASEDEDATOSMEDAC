@@ -2,25 +2,24 @@
 <MEDAC> 
   <DAM fecha="15/09/2023-30/06/2024">
     <modulo>
-
       <BASEDEDATOS horas=" 192">
+          <ALUMNO numero="1">
+            <Nombre>Ana</Nombre>
+            <Apellidos>Fernández Gutiérrez</Apellidos>
+            <DNI>16965696L</DNI>
+            <Telefono>789654321</Telefono>
+            <EMAIL>ana.fdezgtrrez@hotmail.com</EMAIL>
+            <Direccion>C/ El Percebe, 13 de Santander</Direccion>
+            <CP>39302</CP>
+            <CALIFICACIONES>
+              <FALTAS>SIN INFORMACION</FALTAS>
+              <NOTAS>SIN INFORMACION</NOTAS>
+            </CALIFICACIONES>
+          </ALUMNO>
 
-          <ALUMNOS>
-
-
-            <Nombre apellidos="Fernández Gutiérrez">Ana
-              <DNI>16965696L</DNI>
-              <Telefono>789654321</Telefono>
-              <EMAIL>ana.fdezgtrrez@hotmail.com</EMAIL>
-              <Direccion>C/ El Percebe, 13 de Santander</Direccion>
-              <CP>39302</CP>
-              <CALIFICACIONES>
-                <FALTAS>SIN INFORMACION</FALTAS>
-                <NOTAS>SIN INFORMACION</NOTAS>
-              </CALIFICACIONES>
-            </Nombre>
-
-            <Nombre apellidos="Grillo">Pepito
+          <ALUMNO numero="2">
+             <Nombre>Pepito</Nombre>
+             <Apellidos>Grillo</Apellidos>
               <DNI>98765432H</DNI>
               <Telefono>656566555</Telefono>
               <EMAIL>yhyh@yahoo.com</EMAIL>
@@ -30,9 +29,11 @@
                 <FALTAS>0</FALTAS>
                 <NOTAS>APTO</NOTAS>
               </CALIFICACIONES>
-            </Nombre>
-            
-            <Nombre apellidos="García Hernández">Juan
+          </ALUMNO>
+
+          <ALUMNO numero="3">
+            <Nombre>Juan</Nombre>
+            <Apellidos>García Hernández</Apellidos>
               <DNI>34543454F </DNI>
               <Telefono>600123123 </Telefono>
               <EMAIL>jgarcia@gmail.com</EMAIL>
@@ -42,10 +43,10 @@
                 <FALTAS>0</FALTAS>
                 <NOTAS>NO APTO</NOTAS>
               </CALIFICACIONES>
-            </Nombre>
-            
-            <Nombre apellidos="Gutiérrez Llamas">Alicia 
-
+          </ALUMNO>
+          <ALUMNO numero="4">
+             <Nombre>Alicia</Nombre> 
+             <Apellido>Gutiérrez Llamas</Apellido>
               <DNI>111111111C </DNI>
               <Telefono>659654321</Telefono>
               <EMAIL>arrez@hotmail.com</EMAIL>
@@ -55,14 +56,52 @@
                 <FALTAS>2</FALTAS>
                 <NOTAS>SIN INFORMACION</NOTAS>
               </CALIFICACIONES>
-            </Nombre>
-          </ALUMNOS>
-
+          </ALUMNO>
       </BASEDEDATOS>
 
       <ENTORNOSDEDESARROLLO horas="96">
+          <ALUMNO numero="1">
+            <Nombre>Ana</Nombre>
+            <Apellidos>Fernández Gutiérrez</Apellidos>
+            <DNI>16965696L</DNI>
+            <Telefono>789654321</Telefono>
+            <EMAIL>ana.fdezgtrrez@hotmail.com</EMAIL>
+            <Direccion>C/ El Percebe, 13 de Santander</Direccion>
+            <CP>39302</CP>
+            <CALIFICACIONES>
+              <FALTAS>SIN INFORMACION</FALTAS>
+              <NOTAS>SIN INFORMACION</NOTAS>
+            </CALIFICACIONES>
+          </ALUMNO>
 
-          <ALUMNOS>
+          <ALUMNO numero="2">
+             <Nombre>Pepito</Nombre>
+             <Apellidos>Grillo</Apellidos>
+              <DNI>98765432H</DNI>
+              <Telefono>656566555</Telefono>
+              <EMAIL>yhyh@yahoo.com</EMAIL>
+              <Direccion>Avd. El Pez, 5 de Suances</Direccion>
+              <CP>39401</CP>
+              <CALIFICACIONES>
+                <FALTAS>0</FALTAS>
+                <NOTAS>APTO</NOTAS>
+              </CALIFICACIONES>
+          </ALUMNO>
+
+          <ALUMNO numero="3">
+            <Nombre>Juan</Nombre>
+            <Apellidos>García Hernández</Apellidos>
+              <DNI>34543454F </DNI>
+              <Telefono>600123123 </Telefono>
+              <EMAIL>jgarcia@gmail.com</EMAIL>
+              <Direccion>C/ Rodrigo de triana, 5 de Almería</Direccion>
+              <CP>04005</CP>
+              <CALIFICACIONES>
+                <FALTAS>0</FALTAS>
+                <NOTAS>NO APTO</NOTAS>
+              </CALIFICACIONES>
+          </ALUMNO>
+          <ALUMNO numero="4">
             <Nombre apellidos="Fernández Gutiérrez">Ana
               <DNI>16965696L</DNI>
               <Telefono>789654321</Telefono>
@@ -116,22 +155,23 @@
       </ENTORNOSDEDESARROLLO>
 
       <FOL horas="96">
+          <ALUMNO numero="1">
+            <Nombre>Ana</Nombre>
+            <Apellidos>Fernández Gutiérrez</Apellidos>
+            <DNI>16965696L</DNI>
+            <Telefono>789654321</Telefono>
+            <EMAIL>ana.fdezgtrrez@hotmail.com</EMAIL>
+            <Direccion>C/ El Percebe, 13 de Santander</Direccion>
+            <CP>39302</CP>
+            <CALIFICACIONES>
+              <FALTAS>SIN INFORMACION</FALTAS>
+              <NOTAS>SIN INFORMACION</NOTAS>
+            </CALIFICACIONES>
+          </ALUMNO>
 
-          <ALUMNOS>
-
-            <Nombre apellidos="Fernández Gutiérrez">Ana
-              <DNI>16965696L</DNI>
-              <Telefono>789654321</Telefono>
-              <EMAIL>ana.fdezgtrrez@hotmail.com</EMAIL>
-              <Direccion>C/ El Percebe, 13 de Santander</Direccion>
-              <CP>39302</CP>
-              <CALIFICACIONES>
-                <FALTAS>SIN INFORMACION</FALTAS>
-                <NOTAS>SIN INFORMACION</NOTAS>
-              </CALIFICACIONES>
-            </Nombre>
-
-            <Nombre apellidos="Grillo">Pepito
+          <ALUMNO numero="2">
+             <Nombre>Pepito</Nombre>
+             <Apellidos>Grillo</Apellidos>
               <DNI>98765432H</DNI>
               <Telefono>656566555</Telefono>
               <EMAIL>yhyh@yahoo.com</EMAIL>
@@ -141,9 +181,11 @@
                 <FALTAS>0</FALTAS>
                 <NOTAS>APTO</NOTAS>
               </CALIFICACIONES>
-            </Nombre>
-            
-            <Nombre apellidos="García Hernández">Juan
+          </ALUMNO>
+
+          <ALUMNO numero="3">
+            <Nombre>Juan</Nombre>
+            <Apellidos>García Hernández</Apellidos>
               <DNI>34543454F </DNI>
               <Telefono>600123123 </Telefono>
               <EMAIL>jgarcia@gmail.com</EMAIL>
@@ -153,11 +195,10 @@
                 <FALTAS>0</FALTAS>
                 <NOTAS>NO APTO</NOTAS>
               </CALIFICACIONES>
-            </Nombre>
-            
-            <Nombre apellidos="Gutiérrez Llamas">Alicia 
-
-            <Apellidos>Gutiérrez Llamas</Apellidos>
+          </ALUMNO>
+          <ALUMNO numero="4">
+             <Nombre>Alicia</Nombre> 
+             <Apellido>Gutiérrez Llamas</Apellido>
               <DNI>111111111C </DNI>
               <Telefono>659654321</Telefono>
               <EMAIL>arrez@hotmail.com</EMAIL>
@@ -167,28 +208,27 @@
                 <FALTAS>2</FALTAS>
                 <NOTAS>SIN INFORMACION</NOTAS>
               </CALIFICACIONES>
-            </Nombre>
-          </ALUMNOS>
-
+          </ALUMNO>
       </FOL> 
 
       <LENGUAJESDEMARCAS horas="128">
+          <ALUMNO numero="1">
+            <Nombre>Ana</Nombre>
+            <Apellidos>Fernández Gutiérrez</Apellidos>
+            <DNI>16965696L</DNI>
+            <Telefono>789654321</Telefono>
+            <EMAIL>ana.fdezgtrrez@hotmail.com</EMAIL>
+            <Direccion>C/ El Percebe, 13 de Santander</Direccion>
+            <CP>39302</CP>
+            <CALIFICACIONES>
+              <FALTAS>SIN INFORMACION</FALTAS>
+              <NOTAS>SIN INFORMACION</NOTAS>
+            </CALIFICACIONES>
+          </ALUMNO>
 
-          <ALUMNOS>
-        
-            <Nombre apellidos="Fernández Gutiérrez">Ana
-              <DNI>16965696L</DNI>
-              <Telefono>789654321</Telefono>
-              <EMAIL>ana.fdezgtrrez@hotmail.com</EMAIL>
-              <Direccion>C/ El Percebe, 13 de Santander</Direccion>
-              <CP>39302</CP>
-              <CALIFICACIONES>
-                <FALTAS>SIN INFORMACION</FALTAS>
-                <NOTAS>SIN INFORMACION</NOTAS>
-              </CALIFICACIONES>
-            </Nombre>
-
-            <Nombre apellidos="Grillo">Pepito
+          <ALUMNO numero="2">
+             <Nombre>Pepito</Nombre>
+             <Apellidos>Grillo</Apellidos>
               <DNI>98765432H</DNI>
               <Telefono>656566555</Telefono>
               <EMAIL>yhyh@yahoo.com</EMAIL>
@@ -198,9 +238,11 @@
                 <FALTAS>0</FALTAS>
                 <NOTAS>APTO</NOTAS>
               </CALIFICACIONES>
-            </Nombre>
-            
-            <Nombre apellidos="García Hernández">Juan
+          </ALUMNO>
+
+          <ALUMNO numero="3">
+            <Nombre>Juan</Nombre>
+            <Apellidos>García Hernández</Apellidos>
               <DNI>34543454F </DNI>
               <Telefono>600123123 </Telefono>
               <EMAIL>jgarcia@gmail.com</EMAIL>
@@ -210,42 +252,41 @@
                 <FALTAS>0</FALTAS>
                 <NOTAS>NO APTO</NOTAS>
               </CALIFICACIONES>
-            </Nombre>
-            
-            <Nombre apellidos="Gutiérrez Llamas">Alicia
-
-          <Apellidos>Gutiérrez Llamas</Apellidos>
-            <DNI>111111111C </DNI>
-            <Telefono>659654321</Telefono>
-            <EMAIL>arrez@hotmail.com</EMAIL>
-            <Direccion>C/ Gran vía , 13 de Granada</Direccion>
-            <CP>18005</CP>
-            <CALIFICACIONES>
-              <FALTAS>2</FALTAS>
-              <NOTAS>SIN INFORMACION</NOTAS>
-            </CALIFICACIONES>
-          </Nombre>
-        </ALUMNOS>
+          </ALUMNO>
+          <ALUMNO numero="4">
+             <Nombre>Alicia</Nombre> 
+             <Apellido>Gutiérrez Llamas</Apellido>
+              <DNI>111111111C </DNI>
+              <Telefono>659654321</Telefono>
+              <EMAIL>arrez@hotmail.com</EMAIL>
+              <Direccion>C/ Gran vía , 13 de Granada</Direccion>
+              <CP>18005</CP>
+              <CALIFICACIONES>
+                <FALTAS>2</FALTAS>
+                <NOTAS>SIN INFORMACION</NOTAS>
+              </CALIFICACIONES>
+          </ALUMNO>
 
       </LENGUAJESDEMARCAS> 
 
       <PROGRAMACION horas="228">
+          <ALUMNO numero="1">
+            <Nombre>Ana</Nombre>
+            <Apellidos>Fernández Gutiérrez</Apellidos>
+            <DNI>16965696L</DNI>
+            <Telefono>789654321</Telefono>
+            <EMAIL>ana.fdezgtrrez@hotmail.com</EMAIL>
+            <Direccion>C/ El Percebe, 13 de Santander</Direccion>
+            <CP>39302</CP>
+            <CALIFICACIONES>
+              <FALTAS>SIN INFORMACION</FALTAS>
+              <NOTAS>SIN INFORMACION</NOTAS>
+            </CALIFICACIONES>
+          </ALUMNO>
 
-          <ALUMNOS>
-        
-            <Nombre apellidos="Fernández Gutiérrez">Ana
-              <DNI>16965696L</DNI>
-              <Telefono>789654321</Telefono>
-              <EMAIL>ana.fdezgtrrez@hotmail.com</EMAIL>
-              <Direccion>C/ El Percebe, 13 de Santander</Direccion>
-              <CP>39302</CP>
-              <CALIFICACIONES>
-                <FALTAS>SIN INFORMACION</FALTAS>
-                <NOTAS>SIN INFORMACION</NOTAS>
-              </CALIFICACIONES>
-            </Nombre>
-
-            <Nombre apellidos="Grillo">Pepito
+          <ALUMNO numero="2">
+             <Nombre>Pepito</Nombre>
+             <Apellidos>Grillo</Apellidos>
               <DNI>98765432H</DNI>
               <Telefono>656566555</Telefono>
               <EMAIL>yhyh@yahoo.com</EMAIL>
@@ -255,9 +296,11 @@
                 <FALTAS>0</FALTAS>
                 <NOTAS>APTO</NOTAS>
               </CALIFICACIONES>
-            </Nombre>
-            
-            <Nombre apellidos="García Hernández">Juan
+          </ALUMNO>
+
+          <ALUMNO numero="3">
+            <Nombre>Juan</Nombre>
+            <Apellidos>García Hernández</Apellidos>
               <DNI>34543454F </DNI>
               <Telefono>600123123 </Telefono>
               <EMAIL>jgarcia@gmail.com</EMAIL>
@@ -267,42 +310,41 @@
                 <FALTAS>0</FALTAS>
                 <NOTAS>NO APTO</NOTAS>
               </CALIFICACIONES>
-            </Nombre>
-            
-            <Nombre apellidos="Gutiérrez Llamas">Alicia
-
-          <Apellidos>Gutiérrez Llamas</Apellidos>
-            <DNI>111111111C </DNI>
-            <Telefono>659654321</Telefono>
-            <EMAIL>arrez@hotmail.com</EMAIL>
-            <Direccion>C/ Gran vía , 13 de Granada</Direccion>
-            <CP>18005</CP>
-            <CALIFICACIONES>
-              <FALTAS>2</FALTAS>
-              <NOTAS>SIN INFORMACION</NOTAS>
-            </CALIFICACIONES>
-          </Nombre>
-        </ALUMNOS>
+          </ALUMNO>
+          <ALUMNO numero="4">
+             <Nombre>Alicia</Nombre> 
+             <Apellido>Gutiérrez Llamas</Apellido>
+              <DNI>111111111C </DNI>
+              <Telefono>659654321</Telefono>
+              <EMAIL>arrez@hotmail.com</EMAIL>
+              <Direccion>C/ Gran vía , 13 de Granada</Direccion>
+              <CP>18005</CP>
+              <CALIFICACIONES>
+                <FALTAS>2</FALTAS>
+                <NOTAS>SIN INFORMACION</NOTAS>
+              </CALIFICACIONES>
+          </ALUMNO>
 
       </PROGRAMACION> 
 
       <SISTEMASINFORMATICOS horas="192">
+          <ALUMNO numero="1">
+            <Nombre>Ana</Nombre>
+            <Apellidos>Fernández Gutiérrez</Apellidos>
+            <DNI>16965696L</DNI>
+            <Telefono>789654321</Telefono>
+            <EMAIL>ana.fdezgtrrez@hotmail.com</EMAIL>
+            <Direccion>C/ El Percebe, 13 de Santander</Direccion>
+            <CP>39302</CP>
+            <CALIFICACIONES>
+              <FALTAS>SIN INFORMACION</FALTAS>
+              <NOTAS>SIN INFORMACION</NOTAS>
+            </CALIFICACIONES>
+          </ALUMNO>
 
-          <ALUMNOS>
-        
-            <Nombre apellidos="Fernández Gutiérrez">Ana
-              <DNI>16965696L</DNI>
-              <Telefono>789654321</Telefono>
-              <EMAIL>ana.fdezgtrrez@hotmail.com</EMAIL>
-              <Direccion>C/ El Percebe, 13 de Santander</Direccion>
-              <CP>39302</CP>
-              <CALIFICACIONES>
-                <FALTAS>SIN INFORMACION</FALTAS>
-                <NOTAS>SIN INFORMACION</NOTAS>
-              </CALIFICACIONES>
-            </Nombre>
-
-            <Nombre apellidos="Grillo">Pepito
+          <ALUMNO numero="2">
+             <Nombre>Pepito</Nombre>
+             <Apellidos>Grillo</Apellidos>
               <DNI>98765432H</DNI>
               <Telefono>656566555</Telefono>
               <EMAIL>yhyh@yahoo.com</EMAIL>
@@ -312,9 +354,11 @@
                 <FALTAS>0</FALTAS>
                 <NOTAS>APTO</NOTAS>
               </CALIFICACIONES>
-            </Nombre>
-            
-            <Nombre apellidos="García Hernández">Juan
+          </ALUMNO>
+
+          <ALUMNO numero="3">
+            <Nombre>Juan</Nombre>
+            <Apellidos>García Hernández</Apellidos>
               <DNI>34543454F </DNI>
               <Telefono>600123123 </Telefono>
               <EMAIL>jgarcia@gmail.com</EMAIL>
@@ -324,22 +368,20 @@
                 <FALTAS>0</FALTAS>
                 <NOTAS>NO APTO</NOTAS>
               </CALIFICACIONES>
-            </Nombre>
-            
-            <Nombre apellidos="Gutiérrez Llamas">Alicia
-
-          <Apellidos>Gutiérrez Llamas</Apellidos>
-            <DNI>111111111C </DNI>
-            <Telefono>659654321</Telefono>
-            <EMAIL>arrez@hotmail.com</EMAIL>
-            <Direccion>C/ Gran vía , 13 de Granada</Direccion>
-            <CP>18005</CP>
-            <CALIFICACIONES>
-              <FALTAS>2</FALTAS>
-              <NOTAS>SIN INFORMACION</NOTAS>
-            </CALIFICACIONES>
-          </Nombre>
-        </ALUMNOS>
+          </ALUMNO>
+          <ALUMNO numero="4">
+             <Nombre>Alicia</Nombre> 
+             <Apellido>Gutiérrez Llamas</Apellido>
+              <DNI>111111111C </DNI>
+              <Telefono>659654321</Telefono>
+              <EMAIL>arrez@hotmail.com</EMAIL>
+              <Direccion>C/ Gran vía , 13 de Granada</Direccion>
+              <CP>18005</CP>
+              <CALIFICACIONES>
+                <FALTAS>2</FALTAS>
+                <NOTAS>SIN INFORMACION</NOTAS>
+              </CALIFICACIONES>
+          </ALUMNO>
 
       </SISTEMASINFORMATICOS>
 
