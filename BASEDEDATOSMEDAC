@@ -2,298 +2,349 @@
 <MEDAC> 
   <DAM fecha="15/09/2023-30/06/2024">
     <modulo>
-      <BASEDEDATOS>
-        <ALUMNOS>
-        
-          <Nombre>Ana
-          <Apellidos>Fernández Gutiérrez</Apellidos>
-            <DNI>16965696L</DNI>
-            <Telefono>789654321</Telefono>
-            <EMAIL>ana.fdezgtrrez@hotmail.com</EMAIL>
-            <Direccion>C/ El Percebe, 13 de Santander</Direccion>
-            <CP>39302</CP>
-            <FALTAS>SIN INFORMACION</FALTAS>
-            <NOTAS>SIN INFORMACION</NOTAS>
-          </Nombre>
 
-          <Nombre>Pepito
-          <Apellidos>Grillo</Apellidos>
-            <DNI>98765432H</DNI>
-            <Telefono>656566555</Telefono>
-            <EMAIL>yhyh@yahoo.com</EMAIL>
-            <Direccion>Avd. El Pez, 5 de Suances</Direccion>
-            <CP>39401</CP>
-            <FALTAS> 0 </FALTAS>
-            <NOTAS>APTO</NOTAS>
-          </Nombre>
-          
-          <Nombre>Juan
-          <Apellidos>García Hernández</Apellidos>
-            <DNI>34543454F </DNI>
-            <Telefono>600123123 </Telefono>
-            <EMAIL>jgarcia@gmail.com</EMAIL>
-            <Direccion>C/ Rodrigo de triana, 5 de Almería</Direccion>
-            <CP>04005</CP>
-            <FALTAS> 0 </FALTAS>
-            <NOTAS>NO APTO</NOTAS>
-          </Nombre>
-          
-          <Nombre>Alicia
-          <Apellidos>Gutiérrez Llamas</Apellidos>
-            <DNI>111111111C </DNI>
-            <Telefono>659654321</Telefono>
-            <EMAIL>arrez@hotmail.com</EMAIL>
-            <Direccion>C/ Gran vía , 13 de Granada</Direccion>
-            <CP>18005</CP>
-            <FALTAS> 2 </FALTAS>
-            <NOTAS>SIN INFORMACION</NOTAS>
-          </Nombre>
-        </ALUMNOS>
+      <BASEDEDATOS horas=" 192">
+
+          <ALUMNOS>
+
+
+            <Nombre apellidos="Fernández Gutiérrez">Ana
+              <DNI>16965696L</DNI>
+              <Telefono>789654321</Telefono>
+              <EMAIL>ana.fdezgtrrez@hotmail.com</EMAIL>
+              <Direccion>C/ El Percebe, 13 de Santander</Direccion>
+              <CP>39302</CP>
+              <CALIFICACIONES>
+                <FALTAS>SIN INFORMACION</FALTAS>
+                <NOTAS>SIN INFORMACION</NOTAS>
+              </CALIFICACIONES>
+            </Nombre>
+
+            <Nombre apellidos="Grillo">Pepito
+              <DNI>98765432H</DNI>
+              <Telefono>656566555</Telefono>
+              <EMAIL>yhyh@yahoo.com</EMAIL>
+              <Direccion>Avd. El Pez, 5 de Suances</Direccion>
+              <CP>39401</CP>
+              <CALIFICACIONES>
+                <FALTAS>0</FALTAS>
+                <NOTAS>APTO</NOTAS>
+              </CALIFICACIONES>
+            </Nombre>
+            
+            <Nombre apellidos="García Hernández">Juan
+              <DNI>34543454F </DNI>
+              <Telefono>600123123 </Telefono>
+              <EMAIL>jgarcia@gmail.com</EMAIL>
+              <Direccion>C/ Rodrigo de triana, 5 de Almería</Direccion>
+              <CP>04005</CP>
+              <CALIFICACIONES>
+                <FALTAS>0</FALTAS>
+                <NOTAS>NO APTO</NOTAS>
+              </CALIFICACIONES>
+            </Nombre>
+            
+            <Nombre apellidos="Gutiérrez Llamas">Alicia 
+
+              <DNI>111111111C </DNI>
+              <Telefono>659654321</Telefono>
+              <EMAIL>arrez@hotmail.com</EMAIL>
+              <Direccion>C/ Gran vía , 13 de Granada</Direccion>
+              <CP>18005</CP>
+              <CALIFICACIONES>
+                <FALTAS>2</FALTAS>
+                <NOTAS>SIN INFORMACION</NOTAS>
+              </CALIFICACIONES>
+            </Nombre>
+          </ALUMNOS>
+
       </BASEDEDATOS>
-      <ENTORNOSDEDESARROLLO>
-        <ALUMNOS>
-        
-          <Nombre>Ana
-          <Apellidos>Fernández Gutiérrez</Apellidos>
-            <DNI>16965696L</DNI>
-            <Telefono>789654321</Telefono>
-            <EMAIL>ana.fdezgtrrez@hotmail.com</EMAIL>
-            <Direccion>C/ El Percebe, 13 de Santander</Direccion>
-            <CP>39302</CP>
-            <FALTAS>SIN INFORMACION</FALTAS>
-            <NOTAS>SIN INFORMACION</NOTAS>
-          </Nombre>
 
-          <Nombre>Pepito
-          <Apellidos>Grillo</Apellidos>
-            <DNI>98765432H</DNI>
-            <Telefono>656566555</Telefono>
-            <EMAIL>yhyh@yahoo.com</EMAIL>
-            <Direccion>Avd. El Pez, 5 de Suances</Direccion>
-            <CP>39401</CP>
-            <FALTAS> 0 </FALTAS>
-            <NOTAS>APTO</NOTAS>
-          </Nombre>
-          
-          <Nombre>Juan
-          <Apellidos>García Hernández</Apellidos>
-            <DNI>34543454F </DNI>
-            <Telefono>600123123 </Telefono>
-            <EMAIL>jgarcia@gmail.com</EMAIL>
-            <Direccion>C/ Rodrigo de triana, 5 de Almería</Direccion>
-            <CP>04005</CP>
-            <FALTAS> 0 </FALTAS>
-            <NOTAS>NO APTO</NOTAS>
-          </Nombre>
-          
-          <Nombre>Alicia
-          <Apellidos>Gutiérrez Llamas</Apellidos>
-            <DNI>111111111C </DNI>
-            <Telefono>659654321</Telefono>
-            <EMAIL>arrez@hotmail.com</EMAIL>
-            <Direccion>C/ Gran vía , 13 de Granada</Direccion>
-            <CP>18005</CP>
-            <FALTAS> 2 </FALTAS>
-            <NOTAS>SIN INFORMACION</NOTAS>
-          </Nombre>
-        </ALUMNOS>
+      <ENTORNOSDEDESARROLLO horas="96">
+
+          <ALUMNOS>
+            <Nombre apellidos="Fernández Gutiérrez">Ana
+              <DNI>16965696L</DNI>
+              <Telefono>789654321</Telefono>
+              <EMAIL>ana.fdezgtrrez@hotmail.com</EMAIL>
+              <Direccion>C/ El Percebe, 13 de Santander</Direccion>
+              <CP>39302</CP>
+              <CALIFICACIONES>
+                <FALTAS>SIN INFORMACION</FALTAS>
+                <NOTAS>SIN INFORMACION</NOTAS>
+              </CALIFICACIONES>
+            </Nombre>
+
+            <Nombre apellidos="Grillo">Pepito
+              <DNI>98765432H</DNI>
+              <Telefono>656566555</Telefono>
+              <EMAIL>yhyh@yahoo.com</EMAIL>
+              <Direccion>Avd. El Pez, 5 de Suances</Direccion>
+              <CP>39401</CP>
+              <CALIFICACIONES>
+                <FALTAS>0</FALTAS>
+                <NOTAS>APTO</NOTAS>
+              </CALIFICACIONES>
+            </Nombre>
+            
+            <Nombre apellidos="García Hernández">Juan
+              <DNI>34543454F </DNI>
+              <Telefono>600123123 </Telefono>
+              <EMAIL>jgarcia@gmail.com</EMAIL>
+              <Direccion>C/ Rodrigo de triana, 5 de Almería</Direccion>
+              <CP>04005</CP>
+              <CALIFICACIONES>
+                <FALTAS>0</FALTAS>
+                <NOTAS>NO APTO</NOTAS>
+              </CALIFICACIONES>
+            </Nombre>
+            
+            <Nombre apellidos="Gutiérrez Llamas">Alicia 
+            <Apellidos>Gutiérrez Llamas</Apellidos>
+              <DNI>111111111C </DNI>
+              <Telefono>659654321</Telefono>
+              <EMAIL>arrez@hotmail.com</EMAIL>
+              <Direccion>C/ Gran vía , 13 de Granada</Direccion>
+              <CP>18005</CP>
+              <CALIFICACIONES>
+                <FALTAS>2</FALTAS>
+                <NOTAS>SIN INFORMACION</NOTAS>
+              </CALIFICACIONES>
+            </Nombre>
+          </ALUMNOS> 
+
       </ENTORNOSDEDESARROLLO>
-      <FOL>
-        <ALUMNOS>
-        
-          <Nombre>Ana
-          <Apellidos>Fernández Gutiérrez</Apellidos>
-            <DNI>16965696L</DNI>
-            <Telefono>789654321</Telefono>
-            <EMAIL>ana.fdezgtrrez@hotmail.com</EMAIL>
-            <Direccion>C/ El Percebe, 13 de Santander</Direccion>
-            <CP>39302</CP>
-            <FALTAS>SIN INFORMACION</FALTAS>
-            <NOTAS>SIN INFORMACION</NOTAS>
-          </Nombre>
-          <Nombre>Pepito
-          <Apellidos>Grillo</Apellidos>
-            <DNI>98765432H</DNI>
-            <Telefono>656566555</Telefono>
-            <EMAIL>yhyh@yahoo.com</EMAIL>
-            <Direccion>Avd. El Pez, 5 de Suances</Direccion>
-            <CP>39401</CP>
-            <FALTAS> 0 </FALTAS>
-            <NOTAS>APTO</NOTAS>
-          </Nombre>
-          
-          <Nombre>Juan
-          <Apellidos>García Hernández</Apellidos>
-            <DNI>34543454F </DNI>
-            <Telefono>600123123 </Telefono>
-            <EMAIL>jgarcia@gmail.com</EMAIL>
-            <Direccion>C/ Rodrigo de triana, 5 de Almería</Direccion>
-            <CP>04005</CP>
-            <FALTAS> 0 </FALTAS>
-            <NOTAS>NO APTO</NOTAS>
-          </Nombre>
-          
-          <Nombre>Alicia
-          <Apellidos>Gutiérrez Llamas</Apellidos>
-            <DNI>111111111C </DNI>
-            <Telefono>659654321</Telefono>
-            <EMAIL>arrez@hotmail.com</EMAIL>
-            <Direccion>C/ Gran vía , 13 de Granada</Direccion>
-            <CP>18005</CP>
-            <FALTAS> 2 </FALTAS>
-            <NOTAS>SIN INFORMACION</NOTAS>
-          </Nombre>
 
-        </ALUMNOS>
+      <FOL horas="96">
+
+          <ALUMNOS>
+
+            <Nombre apellidos="Fernández Gutiérrez">Ana
+              <DNI>16965696L</DNI>
+              <Telefono>789654321</Telefono>
+              <EMAIL>ana.fdezgtrrez@hotmail.com</EMAIL>
+              <Direccion>C/ El Percebe, 13 de Santander</Direccion>
+              <CP>39302</CP>
+              <CALIFICACIONES>
+                <FALTAS>SIN INFORMACION</FALTAS>
+                <NOTAS>SIN INFORMACION</NOTAS>
+              </CALIFICACIONES>
+            </Nombre>
+
+            <Nombre apellidos="Grillo">Pepito
+              <DNI>98765432H</DNI>
+              <Telefono>656566555</Telefono>
+              <EMAIL>yhyh@yahoo.com</EMAIL>
+              <Direccion>Avd. El Pez, 5 de Suances</Direccion>
+              <CP>39401</CP>
+              <CALIFICACIONES>
+                <FALTAS>0</FALTAS>
+                <NOTAS>APTO</NOTAS>
+              </CALIFICACIONES>
+            </Nombre>
+            
+            <Nombre apellidos="García Hernández">Juan
+              <DNI>34543454F </DNI>
+              <Telefono>600123123 </Telefono>
+              <EMAIL>jgarcia@gmail.com</EMAIL>
+              <Direccion>C/ Rodrigo de triana, 5 de Almería</Direccion>
+              <CP>04005</CP>
+              <CALIFICACIONES>
+                <FALTAS>0</FALTAS>
+                <NOTAS>NO APTO</NOTAS>
+              </CALIFICACIONES>
+            </Nombre>
+            
+            <Nombre apellidos="Gutiérrez Llamas">Alicia 
+
+            <Apellidos>Gutiérrez Llamas</Apellidos>
+              <DNI>111111111C </DNI>
+              <Telefono>659654321</Telefono>
+              <EMAIL>arrez@hotmail.com</EMAIL>
+              <Direccion>C/ Gran vía , 13 de Granada</Direccion>
+              <CP>18005</CP>
+              <CALIFICACIONES>
+                <FALTAS>2</FALTAS>
+                <NOTAS>SIN INFORMACION</NOTAS>
+              </CALIFICACIONES>
+            </Nombre>
+          </ALUMNOS>
+
       </FOL> 
-      <LENGUAJESDEMARCAS>
-        <ALUMNOS>
+
+      <LENGUAJESDEMARCAS horas="128">
+
+          <ALUMNOS>
         
-          <Nombre>Ana
-          <Apellidos>Fernández Gutiérrez</Apellidos>
-            <DNI>16965696L</DNI>
-            <Telefono>789654321</Telefono>
-            <EMAIL>ana.fdezgtrrez@hotmail.com</EMAIL>
-            <Direccion>C/ El Percebe, 13 de Santander</Direccion>
-            <CP>39302</CP>
-            <FALTAS>SIN INFORMACION</FALTAS>
-            <NOTAS>SIN INFORMACION</NOTAS>
-          </Nombre>
-          <Nombre>Pepito
-          <Apellidos>Grillo</Apellidos>
-            <DNI>98765432H</DNI>
-            <Telefono>656566555</Telefono>
-            <EMAIL>yhyh@yahoo.com</EMAIL>
-            <Direccion>Avd. El Pez, 5 de Suances</Direccion>
-            <CP>39401</CP>
-            <FALTAS> 0 </FALTAS>
-            <NOTAS>APTO</NOTAS>
-          </Nombre>
-          
-          <Nombre>Juan
-          <Apellidos>García Hernández</Apellidos>
-            <DNI>34543454F </DNI>
-            <Telefono>600123123 </Telefono>
-            <EMAIL>jgarcia@gmail.com</EMAIL>
-            <Direccion>C/ Rodrigo de triana, 5 de Almería</Direccion>
-            <CP>04005</CP>
-            <FALTAS> 0 </FALTAS>
-            <NOTAS>NO APTO</NOTAS>
-          </Nombre>
-          
-          <Nombre>Alicia
+            <Nombre apellidos="Fernández Gutiérrez">Ana
+              <DNI>16965696L</DNI>
+              <Telefono>789654321</Telefono>
+              <EMAIL>ana.fdezgtrrez@hotmail.com</EMAIL>
+              <Direccion>C/ El Percebe, 13 de Santander</Direccion>
+              <CP>39302</CP>
+              <CALIFICACIONES>
+                <FALTAS>SIN INFORMACION</FALTAS>
+                <NOTAS>SIN INFORMACION</NOTAS>
+              </CALIFICACIONES>
+            </Nombre>
+
+            <Nombre apellidos="Grillo">Pepito
+              <DNI>98765432H</DNI>
+              <Telefono>656566555</Telefono>
+              <EMAIL>yhyh@yahoo.com</EMAIL>
+              <Direccion>Avd. El Pez, 5 de Suances</Direccion>
+              <CP>39401</CP>
+              <CALIFICACIONES>
+                <FALTAS>0</FALTAS>
+                <NOTAS>APTO</NOTAS>
+              </CALIFICACIONES>
+            </Nombre>
+            
+            <Nombre apellidos="García Hernández">Juan
+              <DNI>34543454F </DNI>
+              <Telefono>600123123 </Telefono>
+              <EMAIL>jgarcia@gmail.com</EMAIL>
+              <Direccion>C/ Rodrigo de triana, 5 de Almería</Direccion>
+              <CP>04005</CP>
+              <CALIFICACIONES>
+                <FALTAS>0</FALTAS>
+                <NOTAS>NO APTO</NOTAS>
+              </CALIFICACIONES>
+            </Nombre>
+            
+            <Nombre apellidos="Gutiérrez Llamas">Alicia
+
           <Apellidos>Gutiérrez Llamas</Apellidos>
             <DNI>111111111C </DNI>
             <Telefono>659654321</Telefono>
             <EMAIL>arrez@hotmail.com</EMAIL>
             <Direccion>C/ Gran vía , 13 de Granada</Direccion>
             <CP>18005</CP>
-            <FALTAS> 2 </FALTAS>
-            <NOTAS>SIN INFORMACION</NOTAS>
+            <CALIFICACIONES>
+              <FALTAS>2</FALTAS>
+              <NOTAS>SIN INFORMACION</NOTAS>
+            </CALIFICACIONES>
           </Nombre>
-
         </ALUMNOS>
+
       </LENGUAJESDEMARCAS> 
-      <PROGRAMACION>
-        <ALUMNOS>
-        
-          <Nombre>Ana
-          <Apellidos>Fernández Gutiérrez</Apellidos>
-            <DNI>16965696L</DNI>
-            <Telefono>789654321</Telefono>
-            <EMAIL>ana.fdezgtrrez@hotmail.com</EMAIL>
-            <Direccion>C/ El Percebe, 13 de Santander</Direccion>
-            <CP>39302</CP>
-            <FALTAS>SIN INFORMACION</FALTAS>
-            <NOTAS>SIN INFORMACION</NOTAS>
-          </Nombre>
 
-          <Nombre>Pepito
-          <Apellidos>Grillo</Apellidos>
-            <DNI>98765432H</DNI>
-            <Telefono>656566555</Telefono>
-            <EMAIL>yhyh@yahoo.com</EMAIL>
-            <Direccion>Avd. El Pez, 5 de Suances</Direccion>
-            <CP>39401</CP>
-            <FALTAS> 0 </FALTAS>
-            <NOTAS>APTO</NOTAS>
-         </Nombre>
-          
-          <Nombre>Juan
-          <Apellidos>García Hernández</Apellidos>
-            <DNI>34543454F </DNI>
-            <Telefono>600123123 </Telefono>
-            <EMAIL>jgarcia@gmail.com</EMAIL>
-            <Direccion>C/ Rodrigo de triana, 5 de Almería</Direccion>
-            <CP>04005</CP>
-            <FALTAS> 0 </FALTAS>
-            <NOTAS>NO APTO</NOTAS>
-          </Nombre>
-          
-          <Nombre>Alicia
+      <PROGRAMACION horas="228">
+
+          <ALUMNOS>
+        
+            <Nombre apellidos="Fernández Gutiérrez">Ana
+              <DNI>16965696L</DNI>
+              <Telefono>789654321</Telefono>
+              <EMAIL>ana.fdezgtrrez@hotmail.com</EMAIL>
+              <Direccion>C/ El Percebe, 13 de Santander</Direccion>
+              <CP>39302</CP>
+              <CALIFICACIONES>
+                <FALTAS>SIN INFORMACION</FALTAS>
+                <NOTAS>SIN INFORMACION</NOTAS>
+              </CALIFICACIONES>
+            </Nombre>
+
+            <Nombre apellidos="Grillo">Pepito
+              <DNI>98765432H</DNI>
+              <Telefono>656566555</Telefono>
+              <EMAIL>yhyh@yahoo.com</EMAIL>
+              <Direccion>Avd. El Pez, 5 de Suances</Direccion>
+              <CP>39401</CP>
+              <CALIFICACIONES>
+                <FALTAS>0</FALTAS>
+                <NOTAS>APTO</NOTAS>
+              </CALIFICACIONES>
+            </Nombre>
+            
+            <Nombre apellidos="García Hernández">Juan
+              <DNI>34543454F </DNI>
+              <Telefono>600123123 </Telefono>
+              <EMAIL>jgarcia@gmail.com</EMAIL>
+              <Direccion>C/ Rodrigo de triana, 5 de Almería</Direccion>
+              <CP>04005</CP>
+              <CALIFICACIONES>
+                <FALTAS>0</FALTAS>
+                <NOTAS>NO APTO</NOTAS>
+              </CALIFICACIONES>
+            </Nombre>
+            
+            <Nombre apellidos="Gutiérrez Llamas">Alicia
+
           <Apellidos>Gutiérrez Llamas</Apellidos>
             <DNI>111111111C </DNI>
             <Telefono>659654321</Telefono>
             <EMAIL>arrez@hotmail.com</EMAIL>
             <Direccion>C/ Gran vía , 13 de Granada</Direccion>
             <CP>18005</CP>
-            <FALTAS> 2 </FALTAS>
-            <NOTAS>SIN INFORMACION</NOTAS>
-            </Nombre>
-
+            <CALIFICACIONES>
+              <FALTAS>2</FALTAS>
+              <NOTAS>SIN INFORMACION</NOTAS>
+            </CALIFICACIONES>
+          </Nombre>
         </ALUMNOS>
+
       </PROGRAMACION> 
-      <SISTEMASINFORMATICOS>
-        <ALUMNOS>
-        
-          <Nombre>Ana
-          <Apellidos>Fernández Gutiérrez</Apellidos>
-            <DNI>16965696L</DNI>
-            <Telefono>789654321</Telefono>
-            <EMAIL>ana.fdezgtrrez@hotmail.com</EMAIL>
-            <Direccion>C/ El Percebe, 13 de Santander</Direccion>
-            <CP>39302</CP>
-            <FALTAS>SIN INFORMACION</FALTAS>
-            <NOTAS>SIN INFORMACION</NOTAS>
-          </Nombre>
 
-          <Nombre>Pepito
-          <Apellidos>Grillo</Apellidos>
-            <DNI>98765432H</DNI>
-            <Telefono>656566555</Telefono>
-            <EMAIL>yhyh@yahoo.com</EMAIL>
-            <Direccion>Avd. El Pez, 5 de Suances</Direccion>
-            <CP>39401</CP>
-            <FALTAS> 0 </FALTAS>
-            <NOTAS>APTO</NOTAS>
-          </Nombre>
-          
-          <Nombre>Juan
-          <Apellidos>García Hernández</Apellidos>
-            <DNI>34543454F </DNI>
-            <Telefono>600123123 </Telefono>
-            <EMAIL>jgarcia@gmail.com</EMAIL>
-            <Direccion>C/ Rodrigo de triana, 5 de Almería</Direccion>
-            <CP>04005</CP>
-            <FALTAS> 0 </FALTAS>
-            <NOTAS>NO APTO</NOTAS>
+      <SISTEMASINFORMATICOS horas="192">
+
+          <ALUMNOS>
+        
+            <Nombre apellidos="Fernández Gutiérrez">Ana
+              <DNI>16965696L</DNI>
+              <Telefono>789654321</Telefono>
+              <EMAIL>ana.fdezgtrrez@hotmail.com</EMAIL>
+              <Direccion>C/ El Percebe, 13 de Santander</Direccion>
+              <CP>39302</CP>
+              <CALIFICACIONES>
+                <FALTAS>SIN INFORMACION</FALTAS>
+                <NOTAS>SIN INFORMACION</NOTAS>
+              </CALIFICACIONES>
             </Nombre>
-          
-          <Nombre>Alicia
+
+            <Nombre apellidos="Grillo">Pepito
+              <DNI>98765432H</DNI>
+              <Telefono>656566555</Telefono>
+              <EMAIL>yhyh@yahoo.com</EMAIL>
+              <Direccion>Avd. El Pez, 5 de Suances</Direccion>
+              <CP>39401</CP>
+              <CALIFICACIONES>
+                <FALTAS>0</FALTAS>
+                <NOTAS>APTO</NOTAS>
+              </CALIFICACIONES>
+            </Nombre>
+            
+            <Nombre apellidos="García Hernández">Juan
+              <DNI>34543454F </DNI>
+              <Telefono>600123123 </Telefono>
+              <EMAIL>jgarcia@gmail.com</EMAIL>
+              <Direccion>C/ Rodrigo de triana, 5 de Almería</Direccion>
+              <CP>04005</CP>
+              <CALIFICACIONES>
+                <FALTAS>0</FALTAS>
+                <NOTAS>NO APTO</NOTAS>
+              </CALIFICACIONES>
+            </Nombre>
+            
+            <Nombre apellidos="Gutiérrez Llamas">Alicia
+
           <Apellidos>Gutiérrez Llamas</Apellidos>
             <DNI>111111111C </DNI>
             <Telefono>659654321</Telefono>
             <EMAIL>arrez@hotmail.com</EMAIL>
             <Direccion>C/ Gran vía , 13 de Granada</Direccion>
             <CP>18005</CP>
-            <FALTAS> 2 </FALTAS>
-            <NOTAS>SIN INFORMACION</NOTAS>
+            <CALIFICACIONES>
+              <FALTAS>2</FALTAS>
+              <NOTAS>SIN INFORMACION</NOTAS>
+            </CALIFICACIONES>
           </Nombre>
-
         </ALUMNOS>
+
       </SISTEMASINFORMATICOS>
-  
-  
+
     </modulo>
+
   </DAM>
+
 </MEDAC>
