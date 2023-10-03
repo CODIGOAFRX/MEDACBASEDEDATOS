@@ -3,6 +3,7 @@
   <DAM fecha="15/09/2023-30/06/2024">
     <modulo>
       <BASEDEDATOS horas=" 192">
+
           <ALUMNO numero="1">
             <Nombre>Ana</Nombre>
             <Apellidos>Fernández Gutiérrez</Apellidos>
@@ -44,6 +45,7 @@
                 <NOTAS>NO APTO</NOTAS>
               </CALIFICACIONES>
           </ALUMNO>
+
           <ALUMNO numero="4">
              <Nombre>Alicia</Nombre> 
              <Apellido>Gutiérrez Llamas</Apellido>
@@ -57,9 +59,11 @@
                 <NOTAS>SIN INFORMACION</NOTAS>
               </CALIFICACIONES>
           </ALUMNO>
+
       </BASEDEDATOS>
 
       <ENTORNOSDEDESARROLLO horas="96">
+
           <ALUMNO numero="1">
             <Nombre>Ana</Nombre>
             <Apellidos>Fernández Gutiérrez</Apellidos>
@@ -101,6 +105,7 @@
                 <NOTAS>NO APTO</NOTAS>
               </CALIFICACIONES>
           </ALUMNO>
+
           <ALUMNO numero="4">
             <Nombre apellidos="Fernández Gutiérrez">Ana
               <DNI>16965696L</DNI>
@@ -113,48 +118,12 @@
                 <NOTAS>SIN INFORMACION</NOTAS>
               </CALIFICACIONES>
             </Nombre>
-
-            <Nombre apellidos="Grillo">Pepito
-              <DNI>98765432H</DNI>
-              <Telefono>656566555</Telefono>
-              <EMAIL>yhyh@yahoo.com</EMAIL>
-              <Direccion>Avd. El Pez, 5 de Suances</Direccion>
-              <CP>39401</CP>
-              <CALIFICACIONES>
-                <FALTAS>0</FALTAS>
-                <NOTAS>APTO</NOTAS>
-              </CALIFICACIONES>
-            </Nombre>
-            
-            <Nombre apellidos="García Hernández">Juan
-              <DNI>34543454F </DNI>
-              <Telefono>600123123 </Telefono>
-              <EMAIL>jgarcia@gmail.com</EMAIL>
-              <Direccion>C/ Rodrigo de triana, 5 de Almería</Direccion>
-              <CP>04005</CP>
-              <CALIFICACIONES>
-                <FALTAS>0</FALTAS>
-                <NOTAS>NO APTO</NOTAS>
-              </CALIFICACIONES>
-            </Nombre>
-            
-            <Nombre apellidos="Gutiérrez Llamas">Alicia 
-            <Apellidos>Gutiérrez Llamas</Apellidos>
-              <DNI>111111111C </DNI>
-              <Telefono>659654321</Telefono>
-              <EMAIL>arrez@hotmail.com</EMAIL>
-              <Direccion>C/ Gran vía , 13 de Granada</Direccion>
-              <CP>18005</CP>
-              <CALIFICACIONES>
-                <FALTAS>2</FALTAS>
-                <NOTAS>SIN INFORMACION</NOTAS>
-              </CALIFICACIONES>
-            </Nombre>
-          </ALUMNOS> 
+          </ALUMNO> 
 
       </ENTORNOSDEDESARROLLO>
 
       <FOL horas="96">
+
           <ALUMNO numero="1">
             <Nombre>Ana</Nombre>
             <Apellidos>Fernández Gutiérrez</Apellidos>
@@ -196,6 +165,7 @@
                 <NOTAS>NO APTO</NOTAS>
               </CALIFICACIONES>
           </ALUMNO>
+
           <ALUMNO numero="4">
              <Nombre>Alicia</Nombre> 
              <Apellido>Gutiérrez Llamas</Apellido>
@@ -209,9 +179,11 @@
                 <NOTAS>SIN INFORMACION</NOTAS>
               </CALIFICACIONES>
           </ALUMNO>
+
       </FOL> 
 
       <LENGUAJESDEMARCAS horas="128">
+
           <ALUMNO numero="1">
             <Nombre>Ana</Nombre>
             <Apellidos>Fernández Gutiérrez</Apellidos>
@@ -253,6 +225,7 @@
                 <NOTAS>NO APTO</NOTAS>
               </CALIFICACIONES>
           </ALUMNO>
+
           <ALUMNO numero="4">
              <Nombre>Alicia</Nombre> 
              <Apellido>Gutiérrez Llamas</Apellido>
@@ -270,6 +243,7 @@
       </LENGUAJESDEMARCAS> 
 
       <PROGRAMACION horas="228">
+
           <ALUMNO numero="1">
             <Nombre>Ana</Nombre>
             <Apellidos>Fernández Gutiérrez</Apellidos>
@@ -311,6 +285,7 @@
                 <NOTAS>NO APTO</NOTAS>
               </CALIFICACIONES>
           </ALUMNO>
+
           <ALUMNO numero="4">
              <Nombre>Alicia</Nombre> 
              <Apellido>Gutiérrez Llamas</Apellido>
@@ -328,6 +303,7 @@
       </PROGRAMACION> 
 
       <SISTEMASINFORMATICOS horas="192">
+
           <ALUMNO numero="1">
             <Nombre>Ana</Nombre>
             <Apellidos>Fernández Gutiérrez</Apellidos>
@@ -369,6 +345,7 @@
                 <NOTAS>NO APTO</NOTAS>
               </CALIFICACIONES>
           </ALUMNO>
+
           <ALUMNO numero="4">
              <Nombre>Alicia</Nombre> 
              <Apellido>Gutiérrez Llamas</Apellido>
@@ -386,7 +363,6 @@
       </SISTEMASINFORMATICOS>
 
     </modulo>
-
   </DAM>
 
 </MEDAC>
